@@ -17,7 +17,7 @@ The program reads three integer values from an input dialog. The three values re
   2 the same ints, one different int (isosceles)                         |   ✔︎
   3 random ints (scalene)                                                |   ✔︎
   3 random ints which by the triangle definition can't build a triangle  |   ✔︎
-  At least one values is a zero or less                                  |   ✔︎
+  At least one value is a zero or less                                   |   ✔︎
   At least one value is not an int                                       |   ✔︎
   At least one value is not a number (String, char, etc.)                |   ✔︎
   Empty input                                                            |   ✔︎
