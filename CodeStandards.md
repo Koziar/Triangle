@@ -15,3 +15,4 @@ something
 {
 }
 ```
+* Always use curly brackets for loops and if stetements
