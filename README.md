@@ -1,4 +1,4 @@
-# 🚀 Triangle Intro Exercise
+# 🚀 Triangle Exercise
 The program reads three integer values from an input dialog. The three values represent the lengths of the sides of a triangle. The program displays a message that states whether the triangle is scalene (ingen ens sider), isosceles (ligebenet), or equilateral (ligesidet)
 
 ## Table of Contents
