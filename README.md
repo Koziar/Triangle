@@ -4,7 +4,7 @@ The program reads three integer values from an input dialog. The three values re
 ## Table of Contents
 * [Try it out](https://github.com/Koziar/Triangle/blob/master/README.md#try-it-out)
 * [Test cases](https://github.com/Koziar/Triangle/blob/master/README.md#test-cases)
-* [🔴 Review](https://github.com/Koziar/Triangle/blob/master/README.md#code-review)
+* [🔴 Review](https://github.com/Koziar/Triangle/blob/master/README.md#code-review-of-a-fellow-student)
 * [🔴 Code standards](https://github.com/Koziar/Triangle/blob/master/README.md#my-code-standards)
 
 ### Try it out!
