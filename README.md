@@ -3,7 +3,6 @@ The program reads three integer values from an input dialog. The three values re
 
 ## Table of Contents
 * [Try it out](https://github.com/Koziar/Triangle/blob/master/README.md#try-it-out)
-* [Exercise](https://github.com/Koziar/Triangle/blob/master/README.md#exercise)
 * [Test cases](https://github.com/Koziar/Triangle/blob/master/README.md#test-cases)
 * [🔴 Review](https://github.com/Koziar/Triangle/blob/master/README.md#code-review)
 * [🔴 Code standards](https://github.com/Koziar/Triangle/blob/master/README.md#my-code-standards)
@@ -13,9 +12,6 @@ The program reads three integer values from an input dialog. The three values re
 * In your console go to `out/production/Triangles`
 * Type `java Main`
 * Enjoy 🤙🏻
-
-### Exercise
-👉🏻 [📕](https://docs.google.com/document/d/1ZS6LSP4dVPHgjLFyJo1dMjcHWwbjUVtx1Nng5Hg26Tc/edit#)
 
 ### Test cases
                                                                Test case | status
